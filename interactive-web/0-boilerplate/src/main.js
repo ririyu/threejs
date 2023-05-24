@@ -26,9 +26,9 @@ function init() {
 
   
 
-  const axesHelper = new THREE.AxesHelper(5);
+  // const axesHelper = new THREE.AxesHelper(5);
 
-  scene.add(axesHelper);
+  // scene.add(axesHelper);
 
   
   camera.position.z=5;
@@ -40,7 +40,6 @@ function init() {
   function render() {
     
     renderer.render(scene, camera);
-   
     requestAnimationFrame(render);
   }
 
@@ -50,5 +49,6 @@ function init() {
     renderer.setSize(window.innerWidth, window.innerHeight);
     renderer.render(scene, camera);
   }
-  window.addEventListener('resize', handleResize);
   
+  window.addEventListener('resize', handleResize);
+}
