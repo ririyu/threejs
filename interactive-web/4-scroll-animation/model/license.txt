@@ -1,0 +1,11 @@
+Model Information:
+* title:	Alien Tree on Floating Rock
+* source:	https://sketchfab.com/3d-models/alien-tree-on-floating-rock-33ff8ff75e9147bfa8db0cad490c1e05
+* author:	beeclark (https://sketchfab.com/beeclark)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Alien Tree on Floating Rock" (https://sketchfab.com/3d-models/alien-tree-on-floating-rock-33ff8ff75e9147bfa8db0cad490c1e05) by beeclark (https://sketchfab.com/beeclark) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
